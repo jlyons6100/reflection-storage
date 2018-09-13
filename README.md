@@ -9,7 +9,7 @@ Member | Photograph
 --- | ---
 Rodrigo Grabowsky |
 Connor Normand |
-James Lyons | <img src="https://i.imgur.com/5Iy6mTY.jpg" alt="James Lyons" width="106.9" height="170.1"> 
+James Lyons | 
 Marcus Vincent Gomez |
 Tyler Dammann | 
 
