@@ -13,11 +13,6 @@ James | iOS Development, Android Development, C, C++, Python | Optimistic, disci
 Marcus | Product Management, Dev Ops, Computer Vision / AI, Optimization, Backend Dev | Pragmatic, aggressive work-ethic | Front-end, product design | Incredibly stubborn
 Tyler | AI, ML, graphical modeling, web dev | Good work ethic, fast learner | Low-level programming, hardware, working as a team | Tendency to procrastinate
 
-# Team Communication:
-1. Slack: [reflection-hq.slack.com](https://reflection-hq.slack.com) (signup at [reflection-hq.slack.com/signup](http://reflection-hq.slack.com/signup)).
-
-2. [Google Team Drive](https://drive.google.com/drive/u/1/folders/0AG_-DdtPQdukUk9PVA) (ping [mvgomez@stanford.edu](mailto:mvgomez@stanford.edu) to gain access)
-
 # Development
 
 ## Version 1: MERN
