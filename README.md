@@ -3,17 +3,6 @@
 # Synopsis
 We are looking to integrate a personalized morning experience into your everyday mirror. Reflection will be the best smart-mirror solution available, providing facial recognition technology and customizable widgets such as a calendar, weather report, traffic report, music player and more! Wake up, and get ready in front of Reflection with all the information and entertainment you need to have a fun and productive day.
 
-
-# Team Members
-Member | Photograph
---- | ---
-Rodrigo Grabowsky |
-Connor Normand |
-James Lyons | 
-Marcus Vincent Gomez |
-Tyler Dammann | 
-
-
 # Team Skills Matrix:
 
 Member | Skills | Personal Traits | Desired Growth | Weaknesses
