@@ -7,11 +7,11 @@ We are looking to integrate a personalized morning experience into your everyday
 # Team Members
 Member | Photograph
 --- | ---
-Rodrigo Grabowsky | <img src="https://i.imgur.com/WxIkUuE.jpg" alt="Rodrigo Grabowsky" width="147" height="133"> 
-Connor Normand | <img src="" alt="Connor Normand" width="105.3" height="133"> 
+Rodrigo Grabowsky |
+Connor Normand |
 James Lyons | <img src="https://i.imgur.com/5Iy6mTY.jpg" alt="James Lyons" width="106.9" height="170.1"> 
-Marcus Vincent Gomez | <img src="https://i.imgur.com/mbEFCYJ.png" alt="Marcus Vincent Gomez" width="204.8" height="204.6"> 
-Tyler Dammann | <img src="https://i.imgur.com/rqgRgyz.jpg" alt="Tyler Dammann" width="150" height="150">
+Marcus Vincent Gomez |
+Tyler Dammann | 
 
 
 # Team Skills Matrix:
