@@ -1,0 +1,19 @@
+.time-and-date {
+	font-size: 42px;
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+
+.time {
+	margin: 0;
+}
+
+.day {
+	margin: 0;
+}
+
+.date {
+	margin: 0;
+}

@@ -1,0 +1,35 @@
+{
+  "currentUser": "rmgrab",
+  "profiles": {
+    "rmgrab": {
+      "newsSource": "the-new-york-times",
+      "newsSourceName": "The New York Times",
+      "twitterScreenName": "IRONMANLive",
+      "spotifyURI": "spotify:user:spotify:playlist:37i9dQZF1DXbITWG1ZJKYt",
+      "showTrafficMap": false,
+      "trafficHomeLocation": { "lat": -22.986365, "lng": -43.21905300000003 },
+      "weatherZipCode": 94305,
+      "showCalendar": false
+    },
+    "tdammann": {
+      "newsSource": "techcrunch",
+      "newsSourceName": "TechCrunch",
+      "twitterScreenName": "ElonMusk",
+      "spotifyURI": "spotify:user:reuben_aslett:playlist:6fgEFLBHfT4kve79jLR84p",
+      "showTrafficMap": false,
+      "trafficHomeLocation": { "lat": 37.4228662, "lng": -122.1695211 },
+      "weatherZipCode": 94305,
+      "showCalendar": false
+    },
+    "default": {
+      "newsSource": "cnn",
+      "newsSourceName": "CNN",
+      "twitterScreenName": "BarackObama",
+      "spotifyURI": "spotify:user:spotify:playlist:37i9dQZF1DX7KNKjOK0o75",
+      "showTrafficMap": false,
+      "trafficHomeLocation": { "lat": 37.4228662, "lng": -122.1695211 },
+      "weatherZipCode": 94305,
+      "showCalendar": false
+    }
+  }
+}

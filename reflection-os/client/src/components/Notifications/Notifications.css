@@ -1,0 +1,22 @@
+.notifications_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notifications {
+	color: white;
+   display: inline-block;
+}
+
+.notif_img {
+width: 5%;
+height: auto;
+display: inline-block;
+}
+
+.image {
+width: 50%;
+height: auto;
+margin-right: 0px;
+}

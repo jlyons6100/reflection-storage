@@ -1,0 +1,21 @@
+.weather_container {
+  /*display: flex;*/
+}
+
+.weather {
+  color: white;
+  display: flex;
+}
+
+.image_wrapper {
+width: 15%;
+height: auto;
+display: block;
+}
+
+.image {
+display: block;
+width: 75%;
+height: auto;
+margin-right: 0px;
+}
